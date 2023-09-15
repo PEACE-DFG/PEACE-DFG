@@ -1,6 +1,6 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 👋
-## I am a FrontEnd Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
--📚 I am currently learning React💻 <br/>
+## I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
+-📚 I am currently learning Laravel💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
 -🥅 2023 goals : Contributte more to Open Source projects<br/>
 -⚡Fun Facts: I love Musical Instruments Most Especially Drums 🥁🎶<br/>
@@ -31,6 +31,9 @@
 [<img align='left' alt="Terminal" width='29px' src="https://th.bing.com/th/id/OIP.A0P5SEAYLh6r2NTCTSEtfwHaHa?pid=ImgDet&rs=1"/>][cssplaylist]
 
 [<img align='left' alt="Gitbash" width='29px' src="https://img2.freepng.es/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg"/>][cssplaylist]
+[<img align='left' alt="Gitbash" width='29px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png"/>][cssplaylist]
+
+[<img align='left' alt="Gitbash" width='29px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>][cssplaylist]
 
 
 
