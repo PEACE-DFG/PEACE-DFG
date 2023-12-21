@@ -1,5 +1,3 @@
-[<img align="left" alt="GitHub" width="100%" height="200px" src="[https://pngimg.com/uploads/github/github_PNG40.png](https://scontent.flos1-1.fna.fbcdn.net/v/t39.30808-6/382758329_1000592457727496_2495098111998749794_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHOmyfqJYiGx4RcVOM89d5J1aYKYi7nYIrVpgpiLudgirKfQ191RbC04J_NFwCaAyHu9E-EdcE3fSRpIUgv4rb5&_nc_ohc=kjZO_hM2stQAX_dmMx3&_nc_zt=23&_nc_ht=scontent.flos1-1.fna&oh=00_AfDTeRnKIPXYwDmw0TvawQLbP4_IZoXeZR6iSavFQVV7ag&oe=658A579C)"/>][website]
-
 ### Hi there , I'm CODEMaster - aka  [DFG] 👋
 ## I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
 -📚 I am currently learning Laravel💻 <br/>
