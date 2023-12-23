@@ -47,11 +47,11 @@
 
 ### 📕 Latest BlogPost
 <!-- BLOG-POST-LIST:START -->
-- [Render ATL 2023 Trip Report](https://dev.to/codestackr/render-atl-2023-trip-report-mp4)
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [AI Illuminated: Pioneering the Future Through Understanding, Creation, and Application]([https://dev.to/codestackr/render-atl-2023-trip-report-mp4](https://medium.com/@awofesobipeace/ai-illuminated-pioneering-the-future-through-understanding-creation-and-application-454af8fea047))
+- [Axios,useEffect and API application with props]([https://dev.to/codestackr/web-development-roadmap-2023-5beo](https://medium.com/@awofesobipeace/axios-useeffect-and-api-application-with-props-4927d64bb875))
+- [Props in React Broken down]([https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a](https://medium.com/@awofesobipeace/props-in-react-broken-down-7d1efc5defbf))
+- [Developing API with php]([https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo](https://medium.com/@awofesobipeace/writing-api-with-php-352cb6a9a51f))
+- [ GET STARTED IN REACT JS]([https://dev.to/codestackr/microinteractions-password-validation-animation-5629](https://medium.com/@awofesobipeace/react-js-fde945f2cff))
 <!-- BLOG-POST-LIST:END -->
 
 ---
