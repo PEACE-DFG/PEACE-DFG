@@ -1,5 +1,5 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 👋
-[<img align="center" alt="image" width="80%" src="https://scontent.flos5-3.fna.fbcdn.net/v/t39.30808-6/382758329_1000592457727496_2495098111998749794_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHOmyfqJYiGx4RcVOM89d5J1aYKYi7nYIrVpgpiLudgirKfQ191RbC04J_NFwCaAyHu9E-EdcE3fSRpIUgv4rb5&_nc_ohc=kjZO_hM2stQAX_GzSX4&_nc_zt=23&_nc_ht=scontent.flos5-3.fna&oh=00_AfD8BrHoJ_nXoysnMmETj07ot0oi1J58r5pGEVizKLo36Q&oe=658C51DC"/> ]
+[<img align="center" alt="image" width="100%" height="50%" src="https://scontent.flos5-3.fna.fbcdn.net/v/t39.30808-6/382758329_1000592457727496_2495098111998749794_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHOmyfqJYiGx4RcVOM89d5J1aYKYi7nYIrVpgpiLudgirKfQ191RbC04J_NFwCaAyHu9E-EdcE3fSRpIUgv4rb5&_nc_ohc=kjZO_hM2stQAX_GzSX4&_nc_zt=23&_nc_ht=scontent.flos5-3.fna&oh=00_AfD8BrHoJ_nXoysnMmETj07ot0oi1J58r5pGEVizKLo36Q&oe=658C51DC"/> ]
 ## I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
 -📚 I am currently learning Laravel💻 <br/>
 -📚 I am readily available and open to jobs <br/>
