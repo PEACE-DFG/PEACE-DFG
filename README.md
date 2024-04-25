@@ -1,6 +1,7 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 👋
    
-###I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
+##I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
+
 -📚 I am currently learning Laravel💻 <br/>
 -📚 I am readily available and open to jobs <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
