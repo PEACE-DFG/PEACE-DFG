@@ -24,6 +24,12 @@
 
 -🥅 2024 goals : Contributte more to Open Source projects<br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 ### Connect with me:
 
@@ -37,7 +43,18 @@
 
 [<img align='left' alt="Terminal" width='29px' src="https://th.bing.com/th/id/OIP.A0P5SEAYLh6r2NTCTSEtfwHaHa?pid=ImgDet&rs=1"/>][cssplaylist]
 
-[<img align='left' alt="Gitbash" width='29px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>][cssplaylist]
+[<img align='left' alt="Gitbash" width='29px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>][cssplaylist] <br>
+
+
+### 📕 Latest BlogPost
+<!-- BLOG-POST-LIST:START -->
+- [AI Illuminated: Pioneering the Future Through Understanding, Creation, and Application]([https://dev.to/codestackr/render-atl-2023-trip-report-mp4](https://medium.com/@awofesobipeace/ai-illuminated-pioneering-the-future-through-understanding-creation-and-application-454af8fea047))
+- [Axios,useEffect and API application with props]([https://dev.to/codestackr/web-development-roadmap-2023-5beo](https://medium.com/@awofesobipeace/axios-useeffect-and-api-application-with-props-4927d64bb875))
+- [Props in React Broken down]([https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a](https://medium.com/@awofesobipeace/props-in-react-broken-down-7d1efc5defbf))
+- [Developing API with php]([https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo](https://medium.com/@awofesobipeace/writing-api-with-php-352cb6a9a51f))
+- [ GET STARTED IN REACT JS]([https://dev.to/codestackr/microinteractions-password-validation-animation-5629](https://medium.com/@awofesobipeace/react-js-fde945f2cff)) <br>
+<!-- BLOG-POST-LIST:END -->
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peace-dfg&show_icons=true&locale=en&layout=compact" alt="peace-dfg" /></p>
 
@@ -54,14 +71,6 @@
 
 ---
 
-### 📕 Latest BlogPost
-<!-- BLOG-POST-LIST:START -->
-- [AI Illuminated: Pioneering the Future Through Understanding, Creation, and Application]([https://dev.to/codestackr/render-atl-2023-trip-report-mp4](https://medium.com/@awofesobipeace/ai-illuminated-pioneering-the-future-through-understanding-creation-and-application-454af8fea047))
-- [Axios,useEffect and API application with props]([https://dev.to/codestackr/web-development-roadmap-2023-5beo](https://medium.com/@awofesobipeace/axios-useeffect-and-api-application-with-props-4927d64bb875))
-- [Props in React Broken down]([https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a](https://medium.com/@awofesobipeace/props-in-react-broken-down-7d1efc5defbf))
-- [Developing API with php]([https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo](https://medium.com/@awofesobipeace/writing-api-with-php-352cb6a9a51f))
-- [ GET STARTED IN REACT JS]([https://dev.to/codestackr/microinteractions-password-validation-animation-5629](https://medium.com/@awofesobipeace/react-js-fde945f2cff))
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
