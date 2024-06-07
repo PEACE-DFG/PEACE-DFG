@@ -3,10 +3,27 @@
 ### I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
 
 -📚 I am currently learning Laravel💻 <br/>
+
+- 🔭 I’m currently working on [E-Learning FullStack Application for Techies](Link Unavailable now)
+
+- 👨‍💻 All of my projects are available at [https://awofesobipeacedev.netlify.app](https://awofesobipeacedev.netlify.app)
+
+- 📝 I regularly write articles on [https://medium.com/@awofesobipeace](https://medium.com/@awofesobipeace)
+
+- 💬 Ask me about **anything Web development**
+
+- 📫 How to reach me **awofesobipeace@gmail.com**
+
+- 📄 Know about my experiences [https://awofesobipeacedev.netlify.app](https://awofesobipeacedev.netlify.app)
+
+- ⚡ Fun fact **I think i am funny and I love Musical Instruments Most Especially Drums 🥁🎶**
+  
 -📚 I am readily available and open to jobs <br/>
+
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
--🥅 2023 goals : Contributte more to Open Source projects<br/>
--⚡Fun Facts: I love Musical Instruments Most Especially Drums 🥁🎶<br/>
+
+-🥅 2024 goals : Contributte more to Open Source projects<br/>
+
 
 ### Connect with me:
 
@@ -17,11 +34,8 @@
 
 ### Languages and  Tools:
 
-[<img align='left' alt="Visual Studio Code" width='29px' src="https://th.bing.com/th/id/OIP.d_lZsqH2-zpKBXW_KoHY0gHaHa?pid=ImgDet&rs=1"/>][webdevplaylist]
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[<img align='left' alt="HTML5" width='32px' src="https://th.bing.com/th/id/OIP.D1mH5HMi2YweqbvkgjjlCgHaHa?pid=ImgDet&rs=1"/>][webdevplaylist2]
-
-[<img align='left' alt="Bootstrap" width='32px' src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"/>][webdevplaylist2]
 
 <!--  -->
 
