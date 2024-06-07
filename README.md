@@ -2,6 +2,13 @@
    
 ### I am a Full Stack Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 -📚 I am currently learning Laravel💻 <br/>
 
 - 🔭 I’m currently working on [E-Learning FullStack Application for Techies](Link Unavailable now)
@@ -24,11 +31,6 @@
 
 -🥅 2024 goals : Contributte more to Open Source projects<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ### Connect with me:
@@ -69,16 +71,6 @@
 <br/>
 <br/>
 
----
-
-
----
-
-[![CODEMaster GitHub stats](https://github-readme-stats.vercel.app/api?username=PEACE-DFG&theme=tokyonight)](https://github.com/PEACE-DFG/github-readme-stats)
-
----
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PEACE-DFG)](https://github.com/PEACE-DFG/github-readme-stats)
 
 
 [website]:https://github.com/PEACE-DFG
