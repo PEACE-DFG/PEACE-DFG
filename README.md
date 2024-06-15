@@ -1,9 +1,9 @@
 # Hi there, I'm CODEMaster - aka [DFG] 👋
-
+<h1 align="center"> Hi there, I'm CODEMaster - aka [DFG] 👋
+<!--   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Engineer;DevOps+Engineer;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
 </p>
-### I am a Full Stack Developer, Student, Webdev Tutor, Electrical Engineer, and Musician
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" />
@@ -75,6 +75,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
+</p>
+<p align="center">
+<a href="https://github.com/peace-dfg">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praisegee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praisegee&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
 
 ### 📕 Latest Blog Posts
