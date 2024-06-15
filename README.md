@@ -76,15 +76,14 @@
   </a>
 </p>
 
-
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/peace-dfg">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praisegee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peace-dfg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-  
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peace-dfg&" alt="peace-dfg" />
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=peace-dfg&" alt="peace-dfg" />
 </p>
 </p>
 
