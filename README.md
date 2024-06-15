@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" />
   </a>
-</p>
+</p>-->
 
 <p>
   <a href="https://twitter.com/" target="blank">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<!-- 📚 I am currently learning Laravel 💻
+- 📚 I am currently learning Laravel 💻
 - 🔭 I’m currently working on [E-Learning FullStack Application for Techies](Link Unavailable now)
 - 👨‍💻 All of my projects are available at [https://awofesobipeacedev.netlify.app](https://awofesobipeacedev.netlify.app)
 - 📝 I regularly write articles on [https://medium.com/@awofesobipeace](https://medium.com/@awofesobipeace)
@@ -31,7 +31,7 @@
 - 📚 I am readily available and open to jobs
 - 💻 I am looking to collaborate with other Programmers to learn from them
 - 🥅 2024 goals: Contribute more to Open Source projects
--->
+
 
 ### Connect with me:
 
