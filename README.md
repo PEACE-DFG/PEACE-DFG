@@ -1,4 +1,3 @@
-# Hi there, I'm CODEMaster - aka [DFG] 👋
 <h1 align="center"> Hi there, I'm CODEMaster - aka [DFG] 👋
 <!--   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1> -->
 <p align="center">
@@ -15,7 +14,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
   </a>
@@ -76,10 +75,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+
+
 <p align="center">
 <a href="https://github.com/peace-dfg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praisegee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praisegee&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
