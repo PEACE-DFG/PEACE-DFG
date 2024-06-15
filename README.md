@@ -1,23 +1,11 @@
-<h1 align="center"> Hi there, I'm CODEMaster - aka [DFG] 👋
+<h1 align="center"> Hi there, I'm CODEMaster
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
   </h1> 
   <div align="center">
 <img src="https://yt3.googleusercontent.com/jEpLvb6Ar66gERZHh8yTjPGnloYU2ysW_kL8lwfOxXweymZZYvxHOhYeowAIIaoAkcw7KjNB=s176-c-k-c0x00ffffff-no-rj" width="155" style="border-radius:50">
 </div>
   
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Content+Creator;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" margin="0px 10px" />
-  </a>
-</p>
 
 <p>
   <a href="https://twitter.com/" target="blank">
@@ -37,6 +25,19 @@
 - 💻 I am looking to collaborate with other Programmers to learn from them
 - 🥅 2024 goals: Contribute more to Open Source projects
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Content+Creator;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" margin="0px 10px" />
+  </a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 [<img align="left" alt="GitHub" width="52px" src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" />][website]
