@@ -35,9 +35,9 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-[<img align="left" alt="GitHub" width="22px" src="https://pngimg.com/uploads/github/github_PNG40.png" />][website]
+[<img align="left" alt="GitHub" width="22px" src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" />][website]
 [<img align="left" alt="Netlify" src="https://th.bing.com/th/id/OIP.hXaOT1AkPnxwNC82h6tEwQHaCp?pid=ImgDet&rs=1" width="52px" />][website2]
-[<img align="left" alt="Youtube" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/05/youtube-logo.png?auto=format&q=60&fit=max&w=930" width="52px" /> [websiteY]]
+[<img align="left" alt="Youtube" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/05/youtube-logo.png?auto=format&q=60&fit=max&w=930" width="52px" />].[websiteY]
 
 <br/>
 
