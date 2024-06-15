@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm CODEMaster - aka [DFG] 👋
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
   </h1> 
-<img src="https://yt3.googleusercontent.com/jEpLvb6Ar66gERZHh8yTjPGnloYU2ysW_kL8lwfOxXweymZZYvxHOhYeowAIIaoAkcw7KjNB=s176-c-k-c0x00ffffff-no-rj" width="155" style="border-radius: 50%;">
+<img src="https://yt3.googleusercontent.com/jEpLvb6Ar66gERZHh8yTjPGnloYU2ysW_kL8lwfOxXweymZZYvxHOhYeowAIIaoAkcw7KjNB=s176-c-k-c0x00ffffff-no-rj" width="155" style="border-radius:50">
 
   
 <p align="center">
