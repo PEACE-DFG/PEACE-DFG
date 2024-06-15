@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there, I'm CODEMaster - aka [DFG] 👋
-<!--   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1> -->
+<!--   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">-->
+  </h1> 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
 </p>
