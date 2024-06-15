@@ -34,10 +34,10 @@
 - 🥅 2024 goals: Contribute more to Open Source projects
 
 
-### Connect with me:
-
+### 🤝🏻 &nbsp;Connect with Me
 [<img align="left" alt="GitHub" width="22px" src="https://pngimg.com/uploads/github/github_PNG40.png" />][website]
 [<img align="left" alt="Netlify" src="https://th.bing.com/th/id/OIP.hXaOT1AkPnxwNC82h6tEwQHaCp?pid=ImgDet&rs=1" width="52px" />][website2]
+[<img align="left" alt="Youtube" src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/05/youtube-logo.png?auto=format&q=60&fit=max&w=930" width="52px" /> [websiteY]]
 
 <br/>
 
@@ -108,6 +108,7 @@
 
 [website]: https://github.com/PEACE-DFG
 [website2]: https://app.netlify.com/teams/peace-dfg/overview
+[websiteY]: https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w
 [webdevplaylist]: https://www.bing.com/aclick?ld=e8gC1QMuDQiMlndrgFE5Q1PTVUCUy_4shLeQW78sNFuy_iCliZyth_2GYkkg1jFSM3dRwYkeOfXAMPNkVyTXp4gmdKk1ORNC5CYccVmurOlouNiFOOLjR1NsXC2aJ3MMRFZ9dwnFH35l8yqsQYHegqM0RMk5AmIxbkY4xUYQU-J_P-XanmdEhkidlGovlVsoWh-_SjaA&u=aHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZnBhdGhzJTJmd2ViLWRldmVsb3BtZW50JTNmdXRtX2lkJTNkdF9rd2QtNzk3MTQ5ODY5Mzk0ODMlM2Fsb2MtMTM3JTNhYWdfMTI3NTQzNDEwOTkwMzg3MCUzYWNwXzM3MDMxNDUxNyUzYW5fbyUzYWRfYyUyNm1zY2xraWQlM2RhYmFhMjYwMTdmM2MxMTZlMjVhMjQyOTdhNGNjOTFmZiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFJPVyUyNTIwTGFuZ3VhZ2UlMjUzQSUyNTIwQmFzaWMlMjUyMC0lMjUyMEV4YWN0JTI2dXRtX3Rlcm0lM2RodG1sJTI1MjBmb3IlMjUyMGJlZ2lubmVycyUyNnV0bV9jb250ZW50JTNkSFRNTCUyNTIwJTI1MjYlMjUyMENTUw&rlid=abaa26017f3c116e25a24297a4cc91ff&ntb=1
 [webdevplaylist2]: https://www.bing.com/ck/a?!&&p=a5ac5e7d1af2ba33JmltdHM9MTY4NzU2NDgwMCZpZ3VpZD0wOTZjN2ViYi0zNGJmLTZhMjMtMDMxZS02ZDgxMzVhMjZiMzUmaW5zaWQ9NTIyMw&ptn=3&hsh=3&fclid=096c7ebb-34bf-6a23-031e-6d8135a26b35&psq=css+tutorial&u=a1aHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL2Nzcy9pbmRleC5odG0&ntb=1
 [cssplaylist]: https://www.bing.com/ck/a?!&&p=a5ac5e7d1af2ba33JmltdHM9MTY4NzU2NDgwMCZpZ3VpZD0wOTZjN2ViYi0zNGJmLTZhMjMtMDMxZS02ZDgxMzVhMjZiMzUmaW5zaWQ9NTIyMw&ptn=3&hsh=3&fclid=096c7ebb-34bf-6a23-031e-6d8135a26b35&psq=css+tutorial&u=a1aHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL2Nzcy9pbmRleC5odG0&ntb=1
