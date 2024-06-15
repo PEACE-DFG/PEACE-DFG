@@ -82,6 +82,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=praisegee&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
+  
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peace-dfg&" alt="peace-dfg" />
+</p>
 </p>
 
 ### 📕 Latest Blog Posts
@@ -93,17 +97,7 @@
 - [GET STARTED IN REACT JS](https://medium.com/@awofesobipeace/react-js-fde945f2cff)
 <!-- BLOG-POST-LIST:END -->
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peace-dfg&show_icons=true&locale=en&layout=compact" alt="peace-dfg" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peace-dfg&show_icons=true&locale=en" alt="peace-dfg" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peace-dfg&" alt="peace-dfg" />
-</p>
 
 [website]: https://github.com/PEACE-DFG
 [website2]: https://app.netlify.com/teams/peace-dfg/overview
