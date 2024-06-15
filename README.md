@@ -20,7 +20,7 @@
   </a>
 </p>
 
-- 📚 I am currently learning Laravel 💻
+<!-- 📚 I am currently learning Laravel 💻
 - 🔭 I’m currently working on [E-Learning FullStack Application for Techies](Link Unavailable now)
 - 👨‍💻 All of my projects are available at [https://awofesobipeacedev.netlify.app](https://awofesobipeacedev.netlify.app)
 - 📝 I regularly write articles on [https://medium.com/@awofesobipeace](https://medium.com/@awofesobipeace)
@@ -31,6 +31,7 @@
 - 📚 I am readily available and open to jobs
 - 💻 I am looking to collaborate with other Programmers to learn from them
 - 🥅 2024 goals: Contribute more to Open Source projects
+-->
 
 ### Connect with me:
 
@@ -86,6 +87,12 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=peace-dfg&" alt="peace-dfg" />
 </p>
 </p>
+
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/peace-dfg"><img alt="CODEMaster Activity Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=peace-dfg&bg_color=080c44&color=5c6df0&line=13c331&point=f7f7f7&area=true&hide_border=true /></a>
+  <br/>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
