@@ -1,5 +1,8 @@
 # Hi there, I'm CODEMaster - aka [DFG] 👋
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Engineer;DevOps+Engineer;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
+</p>
 ### I am a Full Stack Developer, Student, Webdev Tutor, Electrical Engineer, and Musician
 
 <p align="center">
