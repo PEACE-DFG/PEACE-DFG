@@ -100,6 +100,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate GUIDE TO USING PHP MAILER](https://medium.com/@awofesobipeace/using-phpmailer-a-comprehensive-guide-by-codemaster-35f6ffd3e7a5)
 - [AI Illuminated: Pioneering the Future Through Understanding, Creation, and Application](https://medium.com/@awofesobipeace/ai-illuminated-pioneering-the-future-through-understanding-creation-and-application-454af8fea047)
 - [Axios, useEffect and API application with props](https://medium.com/@awofesobipeace/axios-useeffect-and-api-application-with-props-4927d64bb875)
 - [Props in React Broken down](https://medium.com/@awofesobipeace/props-in-react-broken-down-7d1efc5defbf)
