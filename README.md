@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm CODEMaster
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHKqIFwran9IA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718499273266?e=1730332800&v=beta&t=u3TJra9_tSj1QIIEsV91NcDRKoHbyQ1OYP4utN0Y9_0" width="35">
   </h1> 
   <div align="center">
 <img src="https://media.licdn.com/dms/image/D4D03AQHKqIFwran9IA/profile-displayphoto-shrink_200_200/0/1718499273266?e=1724284800&v=beta&t=8nTut3Oww3KznqhnRyOGIjH9JUDx_YDro4QBFot8jfk" width="255" style="border-radius:50">
