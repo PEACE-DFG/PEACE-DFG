@@ -14,7 +14,7 @@
 </p>
 
 - 📚 I am currently learning Laravel 💻
-- 🔭 I’m currently working on [E-Learning FullStack Application for Techies](Link Unavailable now)
+- 🔭 I’m currently working on [Chatting System Web_APPLICATION](Link Unavailable now)
 - 👨‍💻 All of my projects are available at [https://awofesobipeacedev.netlify.app](https://awofesobipeacedev.netlify.app)
 - 📝 I regularly write articles on [https://medium.com/@awofesobipeace](https://medium.com/@awofesobipeace)
 - 💬 Ask me about **anything Web development**
