@@ -100,6 +100,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Using EmailJS for Sending Emails from JavaScript](https://medium.com/@awofesobipeace/a-comprehensive-guide-to-using-emailjs-for-sending-emails-from-javascript-9d90e14dc542)
 - [Breakdown of Tailwind setup with CODEMaster](https://medium.com/@awofesobipeace/breakdown-of-tailwind-setup-with-codemaster-df334ad2b761)
 - [Ultimate GUIDE TO USING PHP MAILER](https://medium.com/@awofesobipeace/using-phpmailer-a-comprehensive-guide-by-codemaster-35f6ffd3e7a5)
 - [AI Illuminated: Pioneering the Future Through Understanding, Creation, and Application](https://medium.com/@awofesobipeace/ai-illuminated-pioneering-the-future-through-understanding-creation-and-application-454af8fea047)
