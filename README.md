@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35">
   </h1> 
   <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQHKqIFwran9IA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718499273266?e=1736380800&v=beta&t=xwycAHSpZ46P4fkOuWnk7jkAMnGFn9NbgM3MmUxWzAk" width="255" style="border-radius:50">
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQHKqIFwran9IA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718499273266?e=1746057600&v=beta&t=tJj1rBlCpMzU6H66x2_O7FiK6rxhSCgiKhGhAae7vZo" width="255" style="border-radius:50">
 </div>
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Content+Creator;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
