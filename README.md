@@ -83,7 +83,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hardest Part Of Being A Software Developer : Developer VS Clients](https://medium.com/@awofesobipeace/the-hardest-part-of-being-a-developer-21274a589153)
 - [Building Secure PHP Applications: 5 Mistakes to Avoid in 2025](https://medium.com/@awofesobipeace/building-secure-php-applications-5-mistakes-to-avoid-in-2025-2d2617d9e63a)
+
 - [A Comprehensive Guide to Using EmailJS for Sending Emails from JavaScript](https://medium.com/@awofesobipeace/a-comprehensive-guide-to-using-emailjs-for-sending-emails-from-javascript-9d90e14dc542)
 - [Breakdown of Tailwind setup with CODEMaster](https://medium.com/@awofesobipeace/breakdown-of-tailwind-setup-with-codemaster-df334ad2b761)
 - [Ultimate GUIDE TO USING PHP MAILER](https://medium.com/@awofesobipeace/using-phpmailer-a-comprehensive-guide-by-codemaster-35f6ffd3e7a5)
