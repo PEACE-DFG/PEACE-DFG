@@ -2,7 +2,7 @@
   <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35">
   </h1> 
   <div align="center">
-<img src="My Logo.png" width="255" style="border-radius:50%">
+<img src="My_Logo-removebg-preview.png" width="255" style="border-radius:50%">
 </div>
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Content+Creator;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
