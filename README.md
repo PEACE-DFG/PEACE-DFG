@@ -8,9 +8,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Software+Engineer;Web+Tutor+Engineer;Content+Creator;Enjoys%20%20learning%20new%20things%20everyday&center=true&width=500&height=50"></a>
 </p>
 <p>
-  <a href="https://twitter.com/" target="blank">
+  <!-- <a href="https://twitter.com/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
+  </a> -->
 </p>
 
 - 📚 I am currently learning Laravel 💻
