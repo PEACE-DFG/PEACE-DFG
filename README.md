@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg" alt="peace-dfg" margin="0px 10px" />
+    <img src="https://github-profile-trophy.vercel.app/?peace-dfg=ryo-ma&row=2&column=3" alt="peace-dfg" margin="0px 10px" />
   </a>
 </p>
 
