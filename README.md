@@ -29,27 +29,33 @@
 ```yaml
 name: Awofeso Bipeace (CODEMaster)
 located_in: Lagos, Nigeria
-current_focus: Building scalable web applications
-education: ["Full Stack Development", "Software Engineering"]
+education: "First Class Honors - Electrical & Electronic Engineering"
+university: "Osun State University (CGPA: 4.70/5.0)"
+graduation: "October 2024"
+current_focus: Building scalable full-stack web applications
 fields_of_interests:
-  - Web Development
-  - Cloud Computing
+  - Full Stack Development
+  - Web Application Design
+  - Database Architecture
   - UI/UX Design
-  - DevOps
-  - Open Source
+  - Open Source Contribution
 technical_background:
-  - Frontend Development
-  - Backend Development
-  - Database Design
-  - API Development
-  - Version Control
-currently_learning: ["Laravel", "Advanced React Patterns"]
+  - Frontend Development (React.js, HTML5, CSS3, JavaScript)
+  - Backend Development (PHP, MySQL)
+  - Responsive Design (Bootstrap, Tailwind CSS)
+  - Version Control (Git, GitHub)
+  - Deployment (Netlify, Web Hosting)
+currently_learning: ["Laravel Framework", "Advanced React Patterns"]
 2024_goals:
   - Contribute to major open source projects
   - Launch CBT SaaS Platform
   - Write 50+ technical articles
-  - Mentor 100+ developers
-hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching"]
+  - Mentor aspiring developers
+work_experience:
+  - "Full Stack Developer at Mebi-Technologies (May 2024 - March 2025)"
+  - "SIWES Intern at Omolewu ICT (March 2023 - December 2023)"
+hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching & Tutoring"]
+fun_fact: "First-class engineering graduate who codes better with drumsticks nearby!"
 ```
 
 <!-- Current Status Cards -->
@@ -122,10 +128,10 @@ hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching"]
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
 
 ### 🚀 **Other Technologies**
@@ -136,6 +142,175 @@ hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching"]
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Projects**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🍽️ G&P Kitchen</h3>
+      <p align="center">
+        <a href="https://gnpkitchen.co.uk/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        A full-stack web application for a UK-based premium Nigerian cuisine brand featuring mobile-friendly ordering, event catering bookings, and seamless customer workflows.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💍 True Match Online</h3>
+      <p align="center">
+        <a href="https://www.truematchonline.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        A matrimonial platform promoting Sharia-compliant matchmaking with privacy-focused features, guardian participation, and faith-centered connections for Muslim singles.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏘️ The Southwest Realtor</h3>
+      <p align="center">
+        <a href="https://www.thesouthwestrealtor.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        Real estate platform with custom CMS for property management and WhatsApp integration for instant lead conversion with pre-filled project details.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Career Elevate</h3>
+      <p align="center">
+        <a href="https://careerelevate.org" target="_blank">
+          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        Comprehensive job search platform connecting job seekers with employers, featuring advanced filtering, secure admin panel, and seamless application system.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Landlady NG</h3>
+      <p align="center">
+        <a href="https://www.landladyng.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        Dynamic property listing platform with CMS for agents and WhatsApp lead generation feature that pre-populates property details for improved lead quality.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⛪ RCCG Praise Sanctuary UK</h3>
+      <p align="center">
+        <a href="https://rccgpraisesanctuary.org" target="_blank">
+          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        Responsive church website with secure PHP-based contact system, service information, event announcements, and mobile-optimized design for UK congregation.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Academic Website</h3>
+      <p align="center">
+        <a href="https://elect-elect.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+        <a href="https://github.com/PEACE-DFG/Electrical" target="_blank">
+          <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Educational platform for engineering students featuring course outlines, CGPA calculator, e-books library, and curated YouTube learning resources.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-commerce Application</h3>
+      <p align="center">
+        <a href="https://multicodemaster.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+        <a href="https://github.com/PEACE-DFG/multi" target="_blank">
+          <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Full-featured e-commerce platform with user authentication, product search, shopping cart functionality, and dummy JSON API integration.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/PEACE-DFG?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
+  </a>
 </p>
 
 </div>
@@ -245,7 +420,7 @@ hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching"]
   <a href="https://github.com/PEACE-DFG" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://awofesobipeacedev.netlify.app" target="_blank">
+  <a href="https://awofesobipeaceportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://medium.com/@awofesobipeace" target="_blank">
@@ -257,7 +432,7 @@ hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching"]
   <a href="mailto:awofesobipeace@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/awofeso-bipeace" target="_blank">
+  <a href="https://linkedin.com/in/peace-kolade-58a27a314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -280,7 +455,7 @@ const expertise = {
 <p>
   📧 <strong>Email:</strong> awofesobipeace@gmail.com
   <br>
-  🌐 <strong>Portfolio:</strong> <a href="https://awofesobipeacedev.netlify.app">awofesobipeacedev.netlify.app</a>
+  🌐 <strong>Portfolio:</strong> <a href="https://awofesobipeaceportfolio.netlify.app/">awofesobipeaceportfolio.netlify.app</a>
   <br>
   📝 <strong>Blog:</strong> <a href="https://medium.com/@awofesobipeace">medium.com/@awofesobipeace</a>
 </p>
