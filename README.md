@@ -45,13 +45,13 @@ technical_background:
   - Version Control (Git, GitHub)
   - Deployment (Netlify, Web Hosting,GO54)
 currently_learning: ["Laravel Framework", "Advanced React Patterns","React Native"]
-2024_goals:
+2026_goals:
   - Contribute to major open source projects
   - Launch CBT SaaS Platform
   - Write 50+ technical articles
   - Mentor aspiring developers
 work_experience:
-  - "Full Stack Developer at Mebi-Technologies (May 2024 - March 2025)"
+  - "Full Stack Developer at Mebi-Technologies (May 2026 - March 2025)"
   - "SIWES Intern at Omolewu ICT (March 2023 - December 2023)"
 hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching & Tutoring"]
 fun_fact: "First-class engineering graduate who codes better with drumsticks nearby!"
@@ -78,7 +78,7 @@ fun_fact: "First-class engineering graduate who codes better with drumsticks nea
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-      <br><strong>🥅 2024 Goal</strong>
+      <br><strong>🥅 2026 Goal</strong>
       <br>Open Source
       <br><sub>Contributing to the community</sub>
     </td>
@@ -487,7 +487,7 @@ const expertise = {
 ---
 
 
-**Made with ❤️ by CODEMaster • Last Updated: February 2024**
+**Made with ❤️ by CODEMaster • Last Updated: February 2026**
 
 <p>
   <a href="#top">
