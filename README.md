@@ -120,7 +120,6 @@ fun_fact: "First-class engineering graduate who codes better with drumsticks nea
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </p>
 
@@ -138,7 +137,6 @@ fun_fact: "First-class engineering graduate who codes better with drumsticks nea
 
 <p>
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -442,7 +440,7 @@ fun_fact: "First-class engineering graduate who codes better with drumsticks nea
 ```javascript
 const expertise = {
   frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-  backend: ["PHP", "Python", "Node.js", "Laravel"],
+  backend: ["PHP", "Python",  "Laravel"],
   database: ["MySQL", "MongoDB"],
   tools: ["Git", "VS Code", "Postman"],
   currentlyLearning: "Laravel & Advanced React Patterns",
@@ -465,21 +463,7 @@ const expertise = {
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Support Section -->
-<div align="center">
 
-## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> **Support My Work**
-
-<p>If you find my work helpful or inspiring, consider supporting me!</p>
-
-<p>
-  <a href="https://www.buymeacoffee.com/codemaster" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/codemaster" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
-</p>
 
 <br>
 
@@ -497,23 +481,12 @@ const expertise = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🌟 **Show Some Love**
-
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
-</p>
-
 ### ⚡ **Fun Fact**
 
 > "Code is like humor. When you have to explain it, it's bad!" – Cory House
 
 ---
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
 
 **Made with ❤️ by CODEMaster • Last Updated: February 2024**
 
