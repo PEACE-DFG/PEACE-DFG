@@ -1,253 +1,351 @@
-# 👋 Hi, I'm CODEMaster
-
 <div align="center">
-  <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="35" style="margin-bottom: 20px;">
-</div>
 
-<div align="center">
-  <img src="My_Logo-removebg-preview.png" width="255" style="border-radius:50%; box-shadow: 0 10px 30px rgba(0,0,0,0.2); animation: float 6s ease-in-out infinite;">
-</div>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CODEMaster&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50" width="100%"/>
 
-<h2 align="center" style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite; background-size: 200% 200%;">
-  Fullstack Software Engineer • Web Tutor • Content Creator
-</h2>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+Development+Tutor+%F0%9F%93%9A;Technical+Content+Creator+%E2%9C%8D%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
-<p align="center" style="font-size: 1.1rem; color: #6c757d; max-width: 800px; margin: 20px auto;">
-  Passionate about building innovative web solutions and sharing knowledge through technical content. Continuously evolving in the ever-changing tech landscape.
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20Views&color=667eea&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/peace-dfg?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-764ba2?style=for-the-badge&logo=code&logoColor=white" alt="Focus"/>
 </p>
 
-<div align="center" style="margin: 30px 0;">
-  <div style="display: inline-flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
-    <a href="https://github.com/PEACE-DFG" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 50px; font-weight: 600; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">
-      <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png" width="20" style="vertical-align: middle; margin-right: 8px;"> GitHub
-    </a>
-    <a href="https://awofesobipeacedev.netlify.app" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%); color: white; text-decoration: none; border-radius: 50px; font-weight: 600; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(0, 210, 255, 0.4);">
-      <img src="https://th.bing.com/th/id/OIP.hXaOT1AkPnxwNC82h6tEwQHaCp?pid=ImgDet&rs=1" width="20" style="vertical-align: middle; margin-right: 8px;"> Portfolio
-    </a>
-    <a href="https://medium.com/@awofesobipeace" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #000000 0%, #333333 100%); color: white; text-decoration: none; border-radius: 50px; font-weight: 600; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtULFjojEVw.png" width="20" style="vertical-align: middle; margin-right: 8px;"> Medium
-    </a>
-    <a href="https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w" target="_blank" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #FF0000 0%, #CC0000 100%); color: white; text-decoration: none; border-radius: 50px; font-weight: 600; transition: transform 0.3s, box-shadow 0.3s; box-shadow: 0 4px 15px rgba(255, 0, 0, 0.4);">
-      <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/05/youtube-logo.png?auto=format&q=60&fit=max&w=930" width="20" style="vertical-align: middle; margin-right: 8px;"> YouTube
-    </a>
-  </div>
 </div>
 
-## 📋 About Me
+<!-- About Section with Gradient Background -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); padding: 25px; border-radius: 15px; margin: 30px 0; border-left: 5px solid #667eea;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-    <div>
-      <h3 style="color: #667eea; margin-top: 0;">🎯 Currently</h3>
-      <ul style="list-style: none; padding-left: 0;">
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">📚</span> Learning <strong>Laravel</strong>
-        </li>
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">🔭</span> Working on a <strong>CBT SaaS Project</strong>
-        </li>
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">🥅</span> 2024 Goal: <strong>Contribute to Open Source</strong>
-        </li>
-      </ul>
-    </div>
-    <div>
-      <h3 style="color: #667eea; margin-top: 0;">💼 Professional</h3>
-      <ul style="list-style: none; padding-left: 0;">
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">💬</span> Ask me about <strong>Web Development</strong>
-        </li>
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">🤝</span> Open to <strong>collaboration</strong>
-        </li>
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">📄</span> <a href="https://awofesobipeacedev.netlify.app" style="color: #667eea; text-decoration: none;">View my resume & portfolio</a>
-        </li>
-      </ul>
-    </div>
-    <div>
-      <h3 style="color: #667eea; margin-top: 0;">🎵 Personal</h3>
-      <ul style="list-style: none; padding-left: 0;">
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">⚡</span> Fun fact: I'm a <strong>drummer</strong> 🥁🎶
-        </li>
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">📧</span> Contact: <strong>awofesobipeace@gmail.com</strong>
-        </li>
-        <li style="margin-bottom: 10px; padding-left: 24px; position: relative;">
-          <span style="position: absolute; left: 0; color: #764ba2;">👁️</span> Profile views: <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20views&color=0e75b6&style=flat" alt="peace-dfg" style="vertical-align: middle;" />
-        </li>
-      </ul>
-    </div>
-  </div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
+
 </div>
 
-## 🛠️ Tech Stack & Tools
+```yaml
+name: Awofeso Bipeace (CODEMaster)
+located_in: Lagos, Nigeria
+current_focus: Building scalable web applications
+education: ["Full Stack Development", "Software Engineering"]
+fields_of_interests:
+  - Web Development
+  - Cloud Computing
+  - UI/UX Design
+  - DevOps
+  - Open Source
+technical_background:
+  - Frontend Development
+  - Backend Development
+  - Database Design
+  - API Development
+  - Version Control
+currently_learning: ["Laravel", "Advanced React Patterns"]
+2024_goals:
+  - Contribute to major open source projects
+  - Launch CBT SaaS Platform
+  - Write 50+ technical articles
+  - Mentor 100+ developers
+hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching"]
+```
 
-<div style="margin: 40px 0;">
-  <h3 style="text-align: center; margin-bottom: 25px; color: #495057; position: relative;">
-    <span style="background: white; padding: 0 20px; position: relative; z-index: 1;">Technologies I Work With</span>
-    <div style="position: absolute; top: 50%; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, #667eea, transparent); z-index: 0;"></div>
-  </h3>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 30px;">
-    <span style="background: linear-gradient(135deg, #f7df1e, #d6ba0f); color: #000; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"> JavaScript
-    </span>
-    <span style="background: linear-gradient(135deg, #61dafb, #21a1f1); color: #000; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"> React
-    </span>
-    <span style="background: linear-gradient(135deg, #38b2ac, #2d9c96); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="20"> Tailwind CSS
-    </span>
-    <span style="background: linear-gradient(135deg, #563d7c, #4a366e); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="20"> Bootstrap
-    </span>
-    <span style="background: linear-gradient(135deg, #0081cb, #0066a6); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="20"> Material UI
-    </span>
-    <span style="background: linear-gradient(135deg, #3776ab, #2e5d87); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> Python
-    </span>
-    <span style="background: linear-gradient(135deg, #e34f26, #d14022); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"> HTML5
-    </span>
-    <span style="background: linear-gradient(135deg, #1572b6, #115c94); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"> CSS3
-    </span>
-    <span style="background: linear-gradient(135deg, #0769ad, #055186); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="20"> jQuery
-    </span>
-    <span style="background: linear-gradient(135deg, #f05032, #d93e24); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"> Git
-    </span>
-    <span style="background: linear-gradient(135deg, #777bb4, #656899); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"> PHP
-    </span>
-  </div>
+<!-- Current Status Cards -->
+<div align="center">
+
+### 🎯 **What I'm Up To**
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+      <br><strong>🔭 Working On</strong>
+      <br>CBT SaaS Project
+      <br><sub>Building next-gen testing platform</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
+      <br><strong>📚 Learning</strong>
+      <br>Laravel Framework
+      <br><sub>Mastering PHP ecosystem</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+      <br><strong>🥅 2024 Goal</strong>
+      <br>Open Source
+      <br><sub>Contributing to the community</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-## 📊 GitHub Analytics
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="margin: 40px 0;">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 30px;">
-    <div style="flex: 1; min-width: 300px; background: white; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peace-dfg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </div>
-    <div style="flex: 1; min-width: 300px; background: white; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-    </div>
-  </div>
-  
-  <div style="text-align: center; margin-bottom: 30px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peace-dfg&theme=algolia" alt="peace-dfg" style="border-radius: 10px; max-width: 100%;" />
-  </div>
-  
-  <div style="background: white; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); margin-bottom: 30px;">
-    <a href="https://github.com/peace-dfg"><img alt="CODEMaster Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=peace-dfg&bg_color=ffffff&color=667eea&line=764ba2&point=000000&area=true&hide_border=true" style="width: 100%; border-radius: 8px;" /></a>
-  </div>
+<!-- Tech Stack Section -->
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Tech Arsenal**
+
+### 🎨 **Frontend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
+
+### 🎨 **Styling & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</p>
+
+### ⚙️ **Backend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+### 🗄️ **Database & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+### 🚀 **Other Technologies**
+
+<p>
+  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
 </div>
 
-## 🏆 GitHub Trophies
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="margin: 40px 0;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg&row=2&column=3&margin-w=15&margin-h=15&theme=onedark&no-bg=true" alt="peace-dfg" style="border-radius: 10px;" />
+<!-- GitHub Stats Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
+
+<details open>
+<summary><b>📊 GitHub Profile Stats</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/peace-dfg">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peace-dfg&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
   </a>
+</p>
+</details>
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/peace-dfg">
+    <img src="https://streak-stats.demolab.com?user=peace-dfg&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>📈 Contribution Graph</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/peace-dfg">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peace-dfg&custom_title=CODEMaster's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area_color=667eea&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  </a>
+</p>
+</details>
+
 </div>
 
-## 📝 Latest Blog Posts
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="background: linear-gradient(135deg, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.06) 100%); padding: 30px; border-radius: 15px; margin: 40px 0;">
-  <h3 style="text-align: center; margin-bottom: 25px; color: #495057; position: relative;">
-    <span style="background: #f8f9fa; padding: 0 20px; position: relative; z-index: 1;">Recent Technical Articles</span>
-    <div style="position: absolute; top: 50%; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, #000, transparent); z-index: 0;"></div>
-  </h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-    <div style="background: white; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s;">
-      <h4 style="margin-top: 0; color: #667eea;">
-        <a href="https://medium.com/@awofesobipeace/the-hardest-part-of-being-a-developer-21274a589153" style="color: inherit; text-decoration: none;">
-          Hardest Part Of Being A Software Developer
-        </a>
-      </h4>
-      <p style="color: #6c757d; font-size: 0.9rem;">Developer VS Clients relationships and challenges</p>
-    </div>
-    
-    <div style="background: white; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s;">
-      <h4 style="margin-top: 0; color: #667eea;">
-        <a href="https://medium.com/@awofesobipeace/building-secure-php-applications-5-mistakes-to-avoid-in-2025-2d2617d9e63a" style="color: inherit; text-decoration: none;">
-          Building Secure PHP Applications
-        </a>
-      </h4>
-      <p style="color: #6c757d; font-size: 0.9rem;">5 Mistakes to Avoid in 2025</p>
-    </div>
-    
-    <div style="background: white; border-radius: 10px; padding: 20px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); transition: transform 0.3s;">
-      <h4 style="margin-top: 0; color: #667eea;">
-        <a href="https://medium.com/@awofesobipeace/a-comprehensive-guide-to-using-emailjs-for-sending-emails-from-javascript-9d90e14dc542" style="color: inherit; text-decoration: none;">
-          Comprehensive Guide to Using EmailJS
-        </a>
-      </h4>
-      <p style="color: #6c757d; font-size: 0.9rem;">Sending emails directly from JavaScript</p>
-    </div>
-  </div>
-  
-  <div style="text-align: center; margin-top: 25px;">
-    <a href="https://medium.com/@awofesobipeace" style="display: inline-block; padding: 10px 25px; background: #000; color: white; text-decoration: none; border-radius: 50px; font-weight: 600; transition: all 0.3s;">
-      View All Articles →
-    </a>
-  </div>
+<!-- Latest Blog Posts -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ2dDJkb2JxcHNtdWVxbTJ5b3pkOGNqbXp1c2N2OHNjMmJ1bm54ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="35"> **Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@awofesobipeace/the-hardest-part-of-being-a-developer-21274a589153">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+        <br><strong>The Hardest Part Of Being A Developer</strong>
+        <br><sub>Developer vs Client relationships</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@awofesobipeace/building-secure-php-applications-5-mistakes-to-avoid-in-2025-2d2617d9e63a">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+        <br><strong>Building Secure PHP Applications</strong>
+        <br><sub>5 Mistakes to Avoid in 2025</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://medium.com/@awofesobipeace/a-comprehensive-guide-to-using-emailjs-for-sending-emails-from-javascript-9d90e14dc542">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+        <br><strong>EmailJS Guide</strong>
+        <br><sub>Sending emails from JavaScript</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- BLOG-POST-LIST:END -->
+
+<a href="https://medium.com/@awofesobipeace" target="_blank">
+  <img src="https://img.shields.io/badge/Read%20More%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
+</a>
+
 </div>
 
-## 📬 Get In Touch
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center" style="margin: 40px 0; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white;">
-  <h2 style="margin-top: 0;">Let's Connect & Collaborate</h2>
-  <p style="max-width: 600px; margin: 0 auto 25px;">I'm always open to discussing new opportunities, exciting projects, or just chatting about tech!</p>
-  
-  <div style="display: inline-flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
-    <a href="mailto:awofesobipeace@gmail.com" style="display: inline-block; padding: 12px 25px; background: white; color: #667eea; text-decoration: none; border-radius: 50px; font-weight: 600; transition: transform 0.3s;">
-      ✉️ Email Me
-    </a>
-    <a href="https://awofesobipeacedev.netlify.app" style="display: inline-block; padding: 12px 25px; background: rgba(255,255,255,0.2); color: white; text-decoration: none; border-radius: 50px; font-weight: 600; border: 2px solid white; transition: all 0.3s;">
-      🌐 Visit Portfolio
-    </a>
-    <a href="https://github.com/PEACE-DFG" style="display: inline-block; padding: 12px 25px; background: rgba(255,255,255,0.2); color: white; text-decoration: none; border-radius: 50px; font-weight: 600; border: 2px solid white; transition: all 0.3s;">
-      💻 GitHub Profile
-    </a>
-  </div>
+<!-- Connect Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Collaborate**
+
+<p>
+  <a href="https://github.com/PEACE-DFG" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://awofesobipeacedev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://medium.com/@awofesobipeace" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:awofesobipeace@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/awofeso-bipeace" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+### 💬 **Ask Me About**
+
+```javascript
+const expertise = {
+  frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+  backend: ["PHP", "Python", "Node.js", "Laravel"],
+  database: ["MySQL", "MongoDB"],
+  tools: ["Git", "VS Code", "Postman"],
+  currentlyLearning: "Laravel & Advanced React Patterns",
+  funFact: "I code better with drumsticks nearby 🥁"
+};
+```
+
+### 📫 **How to Reach Me**
+
+<p>
+  📧 <strong>Email:</strong> awofesobipeace@gmail.com
+  <br>
+  🌐 <strong>Portfolio:</strong> <a href="https://awofesobipeacedev.netlify.app">awofesobipeacedev.netlify.app</a>
+  <br>
+  📝 <strong>Blog:</strong> <a href="https://medium.com/@awofesobipeace">medium.com/@awofesobipeace</a>
+</p>
+
 </div>
 
-<div align="center" style="margin-top: 40px; color: #6c757d; font-size: 0.9rem;">
-  <p>Made with ❤️ by CODEMaster</p>
-  <p>Last updated: February 2024</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Support Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> **Support My Work**
+
+<p>If you find my work helpful or inspiring, consider supporting me!</p>
+
+<p>
+  <a href="https://www.buymeacoffee.com/codemaster" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+  <a href="https://ko-fi.com/codemaster" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+</p>
+
+<br>
+
+**⭐ Star my repositories if you find them useful!**
+
 </div>
 
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  div[style*="transition: transform"]:hover {
-    transform: translateY(-5px);
-  }
-  
-  a[style*="transition: transform"]:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.6);
-  }
-  
-  a[style*="background: rgba(255,255,255,0.2)"]:hover {
-    background: white !important;
-    color: #667eea !important;
-  }
-</style>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌟 **Show Some Love**
+
+<p>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile"/>
+</p>
+
+### ⚡ **Fun Fact**
+
+> "Code is like humor. When you have to explain it, it's bad!" – Cory House
+
+---
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+**Made with ❤️ by CODEMaster • Last Updated: February 2024**
+
+<p>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-667eea?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top"/>
+  </a>
+</p>
+
+</div>
