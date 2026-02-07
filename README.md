@@ -27,7 +27,7 @@
 </div>
 
 ```yaml
-name: Awofeso Bipeace (CODEMaster)
+name: Awofesobi Peace (CODEMaster)
 located_in: Lagos, Nigeria
 education: "First Class Honors - Electrical & Electronic Engineering"
 university: "Osun State University (CGPA: 4.70/5.0)"
@@ -37,15 +37,14 @@ fields_of_interests:
   - Full Stack Development
   - Web Application Design
   - Database Architecture
-  - UI/UX Design
   - Open Source Contribution
 technical_background:
   - Frontend Development (React.js, HTML5, CSS3, JavaScript)
   - Backend Development (PHP, MySQL)
   - Responsive Design (Bootstrap, Tailwind CSS)
   - Version Control (Git, GitHub)
-  - Deployment (Netlify, Web Hosting)
-currently_learning: ["Laravel Framework", "Advanced React Patterns"]
+  - Deployment (Netlify, Web Hosting,GO54)
+currently_learning: ["Laravel Framework", "Advanced React Patterns","React Native"]
 2024_goals:
   - Contribute to major open source projects
   - Launch CBT SaaS Platform
