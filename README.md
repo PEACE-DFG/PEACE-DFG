@@ -1,498 +1,513 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CODEMaster&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20Digital%20Experiences%20•%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    HERO HEADER                                    -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+Development+Tutor+%F0%9F%93%9A;Content+Creator+%E2%9C%8D%EF%B8%8F;" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=CODEMaster&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Awofesobi%20Peace%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Lagos%2C%20Nigeria&descAlignY=62&descAlign=50&descSize=16" width="100%"/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Profile Views Counter with Animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile%20Views&color=667eea&style=for-the-badge&logo=eye" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/peace-dfg?label=Followers&style=for-the-badge&color=764ba2&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-764ba2?style=for-the-badge&logo=code&logoColor=white" alt="Focus"/>
-</p>
-
-</div>
-
-<!-- About Section with Gradient Background -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **About Me**
-
-</div>
-
-```yaml
-name: Awofesobi Peace (CODEMaster)
-located_in: Lagos, Nigeria
-education: "First Class Honors - Electrical & Electronic Engineering"
-university: "Osun State University (CGPA: 4.70/5.0)"
-graduation: "October 2024"
-current_focus: Building scalable full-stack web applications
-fields_of_interests:
-  - Full Stack Development
-  - Web Application Design
-  - Database Architecture
-  - Open Source Contribution
-technical_background:
-  - Frontend Development (React.js, HTML5, CSS3, JavaScript)
-  - Backend Development (PHP, MySQL)
-  - Responsive Design (Bootstrap, Tailwind CSS)
-  - Version Control (Git, GitHub)
-  - Deployment (Netlify, Web Hosting,GO54)
-currently_learning: ["Laravel Framework", "Advanced React Patterns","React Native"]
-2026_goals:
-  - Contribute to major open source projects
-  - Launch CBT SaaS Platform
-  - Write 50+ technical articles
-  - Mentor aspiring developers
-work_experience:
-  - "Full Stack Developer at Mebi-Technologies (May 2026 - March 2025)"
-  - "SIWES Intern at Omolewu ICT (March 2023 - December 2023)"
-hobbies: ["Coding", "Drumming 🥁", "Content Creation", "Teaching & Tutoring"]
-fun_fact: "First-class engineering graduate who codes better with drumsticks nearby!"
-```
-
-<!-- Current Status Cards -->
-<div align="center">
-
-### 🎯 **What I'm Up To**
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-      <br><strong>🔭 Working On</strong>
-      <br>CBT SaaS Project
-      <br><sub>Building next-gen testing platform</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60">
-      <br><strong>📚 Learning</strong>
-      <br>Laravel Framework
-      <br><sub>Mastering PHP ecosystem</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-      <br><strong>🥅 2026 Goal</strong>
-      <br>Open Source
-      <br><sub>Contributing to the community</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Tech Stack Section -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Tech Arsenal**
-
-### 🎨 **Frontend Development**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-</p>
-
-### 🎨 **Styling & Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-</p>
-
-### ⚙️ **Backend Development**
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-</p>
-
-### 🗄️ **Database & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-</p>
-
-### 🚀 **Other Technologies**
-
-<p>
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Featured Projects Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Featured Projects**
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍽️ G&P Kitchen</h3>
-      <p align="center">
-        <a href="https://gnpkitchen.co.uk/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </p>
-      <p align="center">
-        A full-stack web application for a UK-based premium Nigerian cuisine brand featuring mobile-friendly ordering, event catering bookings, and seamless customer workflows.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💍 True Match Online</h3>
-      <p align="center">
-        <a href="https://www.truematchonline.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </p>
-      <p align="center">
-        A matrimonial platform promoting Sharia-compliant matchmaking with privacy-focused features, guardian participation, and faith-centered connections for Muslim singles.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏘️ The Southwest Realtor</h3>
-      <p align="center">
-        <a href="https://www.thesouthwestrealtor.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </p>
-      <p align="center">
-        Real estate platform with custom CMS for property management and WhatsApp integration for instant lead conversion with pre-filled project details.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Career Elevate</h3>
-      <p align="center">
-        <a href="https://careerelevate.org" target="_blank">
-          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </p>
-      <p align="center">
-        Comprehensive job search platform connecting job seekers with employers, featuring advanced filtering, secure admin panel, and seamless application system.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏠 Landlady NG</h3>
-      <p align="center">
-        <a href="https://www.landladyng.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </p>
-      <p align="center">
-        Dynamic property listing platform with CMS for agents and WhatsApp lead generation feature that pre-populates property details for improved lead quality.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⛪ RCCG Praise Sanctuary UK</h3>
-      <p align="center">
-        <a href="https://rccgpraisesanctuary.org" target="_blank">
-          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </p>
-      <p align="center">
-        Responsive church website with secure PHP-based contact system, service information, event announcements, and mobile-optimized design for UK congregation.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Academic Website</h3>
-      <p align="center">
-        <a href="https://elect-elect.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-        <a href="https://github.com/PEACE-DFG/Electrical" target="_blank">
-          <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-        </a>
-      </p>
-      <p align="center">
-        Educational platform for engineering students featuring course outlines, CGPA calculator, e-books library, and curated YouTube learning resources.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 E-commerce Application</h3>
-      <p align="center">
-        <a href="https://multicodemaster.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-        <a href="https://github.com/PEACE-DFG/multi" target="_blank">
-          <img src="https://img.shields.io/badge/Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-        </a>
-      </p>
-      <p align="center">
-        Full-featured e-commerce platform with user authentication, product search, shopping cart functionality, and dummy JSON API integration.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/PEACE-DFG?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
-  </a>
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Analytics**
-
-<details open>
-<summary><b>📊 GitHub Profile Stats</b></summary>
 <br>
-<p align="center">
-  <a href="https://github.com/peace-dfg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peace-dfg&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
-  </a>
-</p>
-</details>
 
-<details open>
-<summary><b>🔥 Streak Stats</b></summary>
-<br>
-<p align="center">
-  <a href="https://github.com/peace-dfg">
-    <img src="https://streak-stats.demolab.com?user=peace-dfg&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><b>📈 Contribution Graph</b></summary>
-<br>
-<p align="center">
-  <a href="https://github.com/peace-dfg">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peace-dfg&custom_title=CODEMaster's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area_color=667eea&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
-</p>
-</details>
-
-<details open>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-  </a>
-</p>
-</details>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Latest Blog Posts -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ2dDJkb2JxcHNtdWVxbTJ5b3pkOGNqbXp1c2N2OHNjMmJ1bm54ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LmNwrBhejkK9EFP504/giphy.gif" width="35"> **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://medium.com/@awofesobipeace/the-hardest-part-of-being-a-developer-21274a589153">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-        <br><strong>The Hardest Part Of Being A Developer</strong>
-        <br><sub>Developer vs Client relationships</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://medium.com/@awofesobipeace/building-secure-php-applications-5-mistakes-to-avoid-in-2025-2d2617d9e63a">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-        <br><strong>Building Secure PHP Applications</strong>
-        <br><sub>5 Mistakes to Avoid in 2025</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://medium.com/@awofesobipeace/a-comprehensive-guide-to-using-emailjs-for-sending-emails-from-javascript-9d90e14dc542">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-        <br><strong>EmailJS Guide</strong>
-        <br><sub>Sending emails from JavaScript</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- BLOG-POST-LIST:END -->
-
-<a href="https://medium.com/@awofesobipeace" target="_blank">
-  <img src="https://img.shields.io/badge/Read%20More%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=45&lines=Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80;First+Class+EEE+Graduate+%7C+CGPA+4.70%2F5.0+%F0%9F%8E%93;Full+Stack+Dev+%7C+PHP+%2B+React+%7C+MySQL+%F0%9F%92%BB;Content+Creator+%7C+Tutor+%7C+Drummer+%F0%9F%A5%81;Currently+mastering+Laravel+%26+React+Native+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
-</div>
+<br><br>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Collaborate**
-
+<!-- Profile Badges -->
 <p>
-  <a href="https://github.com/PEACE-DFG" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://awofesobipeaceportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://medium.com/@awofesobipeace" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:awofesobipeace@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/peace-kolade-58a27a314" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=peace-dfg&label=Profile+Views&color=667eea&style=flat-square" alt="Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/peace-dfg?label=Followers&style=flat-square&color=764ba2&logo=github" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-28a745?style=flat-square" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lagos%2C%20Nigeria-📍-667eea?style=flat-square" alt="Location"/>
 </p>
-
-### 💬 **Ask Me About**
-
-```javascript
-const expertise = {
-  frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
-  backend: ["PHP", "Python",  "Laravel"],
-  database: ["MySQL", "MongoDB"],
-  tools: ["Git", "VS Code", "Postman"],
-  currentlyLearning: "Laravel & Advanced React Patterns",
-  funFact: "I code better with drumsticks nearby 🥁"
-};
-```
-
-### 📫 **How to Reach Me**
-
-<p>
-  📧 <strong>Email:</strong> awofesobipeace@gmail.com
-  <br>
-  🌐 <strong>Portfolio:</strong> <a href="https://awofesobipeaceportfolio.netlify.app/">awofesobipeaceportfolio.netlify.app</a>
-  <br>
-  📝 <strong>Blog:</strong> <a href="https://medium.com/@awofesobipeace">medium.com/@awofesobipeace</a>
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 <br>
-
-**⭐ Star my repositories if you find them useful!**
-
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### ⚡ **Fun Fact**
-
-> "Code is like humor. When you have to explain it, it's bad!" – Cory House
 
 ---
 
+</div>
 
-**Made with ❤️ by CODEMaster • Last Updated: February 2026**
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    WHO AM I                                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+## 🧠 Who Am I?
+
+```ts
+const CODEMaster = {
+  name:        "Awofesobi Peace",
+  alias:       "CODEMaster",
+  location:    "Lagos, Nigeria 🇳🇬",
+  education:   "B.Eng. EEE — First Class | CGPA 4.70/5.0",
+  university:  "Osun State University (Oct 2024)",
+
+  stack: {
+    frontend:  ["React", "HTML5", "CSS3", "JavaScript", "Tailwind"],
+    backend:   ["PHP", "Laravel (learning)", "Python"],
+    database:  ["MySQL"],
+    tools:     ["Git", "GitHub", "VS Code", "XAMPP"],
+    deploy:    ["Netlify", "Vercel", "GO54"],
+  },
+
+  currentlyBuilding: "CBT SaaS Platform — Eduvate 🎓",
+  learning:          ["Laravel", "Advanced React", "React Native"],
+  writing:           "Technical articles on Medium ✍️",
+  teaching:          "Web Dev tutoring + YouTube content 📹",
+  offScreen:         "Drumming 🥁 | Reading | Mentoring",
+
+  motto: "Ship it. Improve it. Repeat.",
+};
+```
+
+<br clear="right"/>
+
+### ⚡ 2026 Mission
+
+| 🎯 Goal | 📊 Status |
+|--------|---------|
+| 🚀 Launch CBT SaaS (Eduvate) | `In Progress` |
+| 📝 Publish 50+ Technical Articles | `Active` |
+| 🌍 Contribute to Major OSS Projects | `Planned` |
+| 🎓 Mentor 100+ Aspiring Devs | `Ongoing` |
+| 📱 Ship React Native App | `Learning Phase` |
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    TECH STACK                                      -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🛠️ Tech Stack & Tools
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
 <p>
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-667eea?style=for-the-badge&logo=arrow-up&logoColor=white" alt="Back to Top"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery&theme=dark" />
+</p>
+
+**🎨 Styling**
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass&theme=dark" />
+</p>
+
+**⚙️ Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python&theme=dark" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**🗄️ Database & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+</p>
+
+**🚀 Deploy & Hosting**
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" />
+</p>
+
+**📚 Currently Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react&theme=dark" />
+  <br>
+  <sub><i>Laravel Framework & React Native</i></sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    FEATURED PROJECTS                              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+> *Real products. Real users. Real impact.*
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Eduvate CBT
+> *Computer Based Test SaaS Platform*
+
+A next-generation examination platform with AI monitoring, randomized question banks, Excel bulk upload, instant grading, and downloadable result exports. Built for Nigerian schools and beyond.
+
+**Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Demo-667eea?style=flat-square)](https://eduvate.com.ng)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍽️ G&P Kitchen
+> *UK-Based Premium Nigerian Cuisine Brand*
+
+Full-stack food ordering and catering platform with mobile-friendly UI, event booking workflows, and seamless customer journeys for a UK-based brand.
+
+**Stack:** `HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-667eea?style=flat-square)](https://gnpkitchen.co.uk/)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💍 True Match Online
+> *Sharia-Compliant Matrimonial Platform*
+
+Faith-centred matchmaking platform with privacy-first profiles, guardian participation flows, and curated connections for Muslim singles globally.
+
+**Stack:** `HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-764ba2?style=flat-square)](https://www.truematchonline.com)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Career Elevate
+> *Job Search & Hiring Platform*
+
+End-to-end recruitment platform connecting job seekers with employers — advanced filters, secure admin panel, and seamless application tracking.
+
+**Stack:** `Bootstrap` `JavaScript` `PHP` `MySQL`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-764ba2?style=flat-square)](https://careerelevate.org)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏘️ The Southwest Realtor
+> *Real Estate Platform with WhatsApp CRM*
+
+Property listing platform with custom CMS and WhatsApp integration that pre-fills lead details — turning browsers into buyers instantly.
+
+**Stack:** `Bootstrap` `jQuery` `PHP` `MySQL`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-667eea?style=flat-square)](https://www.thesouthwestrealtor.com)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 Landlady NG
+> *Smart Property Listing Platform*
+
+Dynamic property marketplace with agent CMS and WhatsApp lead generation that auto-populates property specs for higher-quality conversations.
+
+**Stack:** `Bootstrap` `jQuery` `PHP` `MySQL`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-667eea?style=flat-square)](https://www.landladyng.com)
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⛪ RCCG Praise Sanctuary UK
+> *Church Website for UK Congregation*
+
+Mobile-optimised church site with secure PHP contact system, service schedules, event management, and streaming links for the UK congregation.
+
+**Stack:** `HTML5` `CSS3` `JavaScript` `PHP`
+
+[![Live](https://img.shields.io/badge/🌐_Live_Site-764ba2?style=flat-square)](https://rccgpraisesanctuary.org)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Academic Platform
+> *Engineering Student Resource Hub*
+
+Educational hub for engineering students — CGPA calculator, course outlines, e-library, and curated YouTube learning pathways.
+
+**Stack:** `React` `Bootstrap` `JavaScript`
+
+[![Live](https://img.shields.io/badge/🌐_Live-667eea?style=flat-square)](https://elect-elect.netlify.app/)
+[![Code](https://img.shields.io/badge/📂_Code-100000?style=flat-square&logo=github)](https://github.com/PEACE-DFG/Electrical)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce App
+> *Full-Featured React Shopping Platform*
+
+Cart, authentication, product search, and dummy JSON API integration — a complete shopping experience built in React.
+
+**Stack:** `React` `Bootstrap` `JavaScript`
+
+[![Live](https://img.shields.io/badge/🌐_Live-764ba2?style=flat-square)](https://multicodemaster.netlify.app/)
+[![Code](https://img.shields.io/badge/📂_Code-100000?style=flat-square&logo=github)](https://github.com/PEACE-DFG/multi)
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ On Medium
+> *Technical Writing & Developer Insights*
+
+Sharing knowledge through in-depth articles on PHP security, EmailJS, developer-client dynamics, and modern web development patterns.
+
+[![Articles](https://img.shields.io/badge/📖_Read_Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@awofesobipeace)
+
+**Latest posts:**
+- [The Hardest Part of Being a Developer](https://medium.com/@awofesobipeace/the-hardest-part-of-being-a-developer-21274a589153)
+- [Building Secure PHP Apps (2025)](https://medium.com/@awofesobipeace/building-secure-php-applications-5-mistakes-to-avoid-in-2025-2d2617d9e63a)
+- [EmailJS Complete Guide](https://medium.com/@awofesobipeace/a-comprehensive-guide-to-using-emailjs-for-sending-emails-from-javascript-9d90e14dc542)
+
+</td>
+</tr>
+
+</table>
+
+<p align="center">
+  <a href="https://github.com/PEACE-DFG?tab=repositories">
+    <img src="https://img.shields.io/badge/🗂️_See_All_Repositories-667eea?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
   </a>
 </p>
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    GITHUB STATS                                    -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peace-dfg&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peace-dfg&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide=Jupyter%20Notebook,Roff"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=peace-dfg&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=peace-dfg&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--          CONTRIBUTION GRAPH + MOTIVATIONAL SECTION               -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🌱 Every Commit Tells a Story
+
+> *"A year of showing up. A year of building. A year of becoming."*
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peace-dfg&custom_title=CODEMaster's%20Contribution%20Journey%20—%20Every%20Green%20Square%20is%20a%20Promise%20Kept&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=667eea&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**💡 The Truth About Growth**
+
+*Every empty square was a day you could have started. Every green square is proof you did.*
+
+</td>
+<td align="center" width="25%">
+
+**🔥 Consistency > Talent**
+
+*Talent gets you noticed. Consistency gets you hired. That graph above is your reputation — build it daily.*
+
+</td>
+<td align="center" width="25%">
+
+**🧱 Stack the Bricks**
+
+*You don't build a great career in one commit. You build it one brick, one push, one solved bug at a time.*
+
+</td>
+<td align="center" width="25%">
+
+**🎯 Ship Anyway**
+
+*Perfect code never ships. Great developers ship something, learn from it, then make it better. Keep pushing.*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   "The best time to start coding was yesterday.                    ║
+║    The second best time is right now.                              ║
+║    Close this README and go build something."                      ║
+║                                          — CODEMaster              ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</p>
+
+<!-- Snake contribution animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+</p>
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    CONTENT & TEACHING                            -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📹 Content Creator & Educator
+
+> *"The best way to master something is to teach it."*
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📺 YouTube
+**Web Development Tutorials**
+
+Practical, project-based tutorials helping aspiring developers break into the industry — covering PHP, React, MySQL, and real-world projects.
+
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w)
+
+</td>
+<td align="center" width="50%">
+
+### 🎵 TikTok
+**@codemaster284**
+
+Short-form dev tips, code walkthroughs, and behind-the-scenes of building real products. Making web development accessible — one video at a time.
+
+[![TikTok](https://img.shields.io/badge/Follow-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codemaster284)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    CONNECT                                        -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🤝 Let's Build Something Together
+
+<p align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PEACE-DFG)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://awofesobipeaceportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peace-kolade-58a27a314)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@awofesobipeace)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCG_QqBUgEMB76jm1RcpNr7w)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codemaster284)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awofesobipeace@gmail.com)
+
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td>📧</td>
+<td><strong>Email</strong></td>
+<td><a href="mailto:awofesobipeace@gmail.com">awofesobipeace@gmail.com</a></td>
+</tr>
+<tr>
+<td>🌐</td>
+<td><strong>Portfolio</strong></td>
+<td><a href="https://awofesobipeaceportfolio.netlify.app/">awofesobipeaceportfolio.netlify.app</a></td>
+</tr>
+<tr>
+<td>📝</td>
+<td><strong>Blog</strong></td>
+<td><a href="https://medium.com/@awofesobipeace">medium.com/@awofesobipeace</a></td>
+</tr>
+<tr>
+<td>🎵</td>
+<td><strong>TikTok</strong></td>
+<td><a href="https://www.tiktok.com/@codemaster284">@codemaster284</a></td>
+</tr>
+<tr>
+<td>📺</td>
+<td><strong>YouTube</strong></td>
+<td><a href="https://www.youtube.com/@EduvateCBT">Eduvate CBT Channel</a></td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    FOOTER                                         -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<br>
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br>
+
+**If any of my work helped you, a ⭐ on the repo means the world. Seriously.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>Made with ❤️ + ☕ + 🥁 by <strong>CODEMaster</strong> • Awofesobi Peace • Last Updated: 2026</sub>
 
 </div>
